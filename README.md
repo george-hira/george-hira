@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a recruiter.<br>🌱 I’m currently learning .Net at Informal School. <br>💬 Ask me about .Net & Python.<br>⚡ Fun fact - Combining psychology and programming can lead to innovative applications in emotional well-being, such as developing emotion recognition software and personalized mental health tools. My journey from psychology to programming opens exciting possibilities at the intersection of these fields.
+🔭 I’m currently working as a recruiter.<br>🌱 I’m currently learning .Net at Informal School. <br>💬 Ask me about .Net.<br>⚡ Fun fact - Combining psychology and programming can lead to innovative applications in emotional well-being, such as developing emotion recognition software and personalized mental health tools. My journey from psychology to programming opens exciting possibilities at the intersection of these fields.
 
 
 ## 🌐 Socials:
